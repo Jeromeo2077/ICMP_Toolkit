@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICMP_toolkit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70196e49a60309b97fb5d0d48b5b6832af22f489")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34f3daa05040b907a2c3f20692d391bbaaa6a862")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICMP_toolkit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICMP_toolkit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

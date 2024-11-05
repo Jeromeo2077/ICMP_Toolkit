@@ -1,3 +1,5 @@
+using ICMP_toolkit;
+
 public class PingContext
 {
   private IPingStrategy _pingStrategy;

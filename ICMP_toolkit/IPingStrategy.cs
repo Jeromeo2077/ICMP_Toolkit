@@ -1,4 +1,8 @@
-public interface IPingStrategy
+namespace ICMP_toolkit
+
 {
-  void Ping(string ipAddress);
+  public interface IPingStrategy
+  {
+    void Ping(string ipAddress);
+  }
 }
